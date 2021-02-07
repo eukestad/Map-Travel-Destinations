@@ -2,15 +2,26 @@
 ## <details><summary>Summary</summary>
 <p>
 Check back for more info.
+</p>
+</details>
 
-## Output
+## <details><summary>Output</summary>
+<p>
 Check back for more info.
+</p>
+</details>
 
-## Files in the Repository
+## <details><summary>Files in the Repository</summary>
+<p>
 Check back for more info.
+</p>
+</details>
 
-## Features
+## <details><summary>Features</summary>
+<p>
 Check back for more info.
+</p>
+</details>
 
 ## Status
 _in progress_
