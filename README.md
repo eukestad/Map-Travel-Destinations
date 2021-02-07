@@ -1,5 +1,6 @@
 # What's the Weather Like?
-## Summary
+## <details><summary>Summary</summary>
+<p>
 Check back for more info.
 
 ## Output
