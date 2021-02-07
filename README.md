@@ -6,14 +6,13 @@ Check back for more info.
 </p>
 </details>
 
-## Output
+## Files in the Repository
 <details><summary>Read more...</summary>
 <p>
 Check back for more info.
-</p>
-</details>
 
-## Files in the Repository
+
+## Output
 <details><summary>Read more...</summary>
 <p>
 Check back for more info.
@@ -24,6 +23,9 @@ Check back for more info.
 <details><summary>Read more...</summary>
 <p>
 Check back for more info.
+</p>
+</details>
+
 </p>
 </details>
 
