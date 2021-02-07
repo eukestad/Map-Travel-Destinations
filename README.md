@@ -1,23 +1,27 @@
 # What's the Weather Like?
-## <details><summary>Summary</summary>
+## Summary
+<details><summary>Read more...</summary>
 <p>
 Check back for more info.
 </p>
 </details>
 
-## <details><summary>Output</summary>
+## Output
+<details><summary>Read more...</summary>
 <p>
 Check back for more info.
 </p>
 </details>
 
-## <details><summary>Files in the Repository</summary>
+## Files in the Repository
+<details><summary>Read more...</summary>
 <p>
 Check back for more info.
 </p>
 </details>
 
-## <details><summary>Features</summary>
+## Features
+<details><summary>Read more...</summary>
 <p>
 Check back for more info.
 </p>
