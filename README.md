@@ -2,7 +2,7 @@
 ## Summary
 This project generates a list of cities to find a list of ten ideal vacation spots. It uses the citipy and gmaps libraries to find and display the city data.
 
-![heatmap](images/heatmap.png)
+![heatmap](https://github.com/eukestad/python-api-challenge/blob/main/WeatherPy/images/heatmap.png)
 
 ## Files in the Repository
 The files for the project are in the main WeatherPy folder. The folder contains two folders and two Jupyter Notebooks: 
