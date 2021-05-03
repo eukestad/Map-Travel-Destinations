@@ -1,4 +1,4 @@
-# What's the Weather Like?
+# Best Travel Destinations
 ## Summary
 This project generates a list of cities to find a list of ten ideal vacation spots. It uses the citipy and gmaps libraries to find and display the city data.
 
